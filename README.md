@@ -10,7 +10,7 @@ Aprenda como criar e rodar micro-serviços na cloud utilizando Node.js com TypeS
 | 1 | Setup TypeScript Eslint                              | ✔️ |
 | 2 | Jest + TypeScript                                    | ✔️ |
 | 3 | Setup de testes de integração com Supertest + types  | ✔️ |
-| 4 | Setup do servidor Node.js com Overnightjs (Express)  | ❌ |
+| 4 | Setup do servidor Node.js com Overnightjs (Express)  | ✔️ |
 
 ## Capítulo 2
 - Integração com serviço externo
