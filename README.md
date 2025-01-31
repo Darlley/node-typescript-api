@@ -12,12 +12,14 @@ Aprenda como criar e rodar micro-serviços na cloud utilizando Node.js com TypeS
 | 3 | Setup de testes de integração com Supertest + types  | ✔️ |
 | 4 | Setup do servidor Node.js com Overnightjs (Express)  | ✔️ |
 
-## Capítulo 2
-- Integração com serviço externo
-- Design da API
-- Boas práticas de tratamento de erros
-- Configuração dinâmica com node-config
-- Jest Mocks + Typescript
+|   | CAPITULO 2                                           |   |
+|---|------------------------------------------------------|---|
+| 1 | Integração com serviço externo                       | ❌ |
+| 2 | Design da API                                        | ❌ |
+| 3 | Boas práticas de tratamento de erros                 | ❌ |
+| 4 | Configuração dinâmica com node-config                | ❌ |
+| 5 | Jest Mocks + Typescript                              | ❌ |
+
 ## Capítulo 3
 - Criação do serviço de Forecast que processa a previsão do surf para as praias
 ## Capítulo 4

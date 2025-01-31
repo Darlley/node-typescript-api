@@ -25,7 +25,9 @@
     "start:local": "ts-node-dev --transpile-only src/index.ts",
     "lint": "eslint ./src ./test --ext .ts",
     "lint:fix": "eslint ./src ./test --ext .ts --fix",
-    "test:functional": "jest --projects ./test --forceExit --runInBand"
+    "test:functional": "jest --projects ./test --forceExit --runInBand",
+    "style:check": "prettier --check \"src/**/*.ts\" \"test/**/*.ts\"",
+    "style:fix": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\""
   },
   "dependencies": {
     "@overnightjs/core": "^1.7.6",
